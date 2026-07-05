@@ -1,16 +1,69 @@
-## Hi there 👋
+# Hi there! 👋 I'm Eman Shahzad
 
-<!--
-**EmanShahzad/EmanShahzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 Software Engineer
+- 🌱 Full-Stack Development and AI
+- 💡 Passionate about building real-world software solutions
+- 🎮 Interested in Unity Game Development
+- 🎨 Blender 3D Modeling Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+- JavaScript
+- TypeScript
+- Python
+- SQL
+- C
+
+### Frontend
+
+- Vue.js
+- React
+- HTML
+- CSS
+
+### Backend
+
+- Node.js
+- Express.js
+
+### Database
+
+- MySQL
+- Firebase
+- MongoDB
+
+### Tools
+
+- Git
+- GitHub
+- Blender
+- Unity
+- VS Code
+
+---
+
+## 📌 Featured Projects
+
+- 🧠 Speech Stress Detection
+- 🛒 Amazon Clone (Vue)
+- 🏛️ Darbar Mahal Baradari
+- ⚔️ Ace of Blades React
+
+---
+
+## 📈 Currently Learning
+
+- Advanced Full-Stack Development
+- Machine Learning
+- Natural Language Processing
+- Software Engineering Best Practices
+
+---
+
+⭐ Thanks for visiting my profile!
